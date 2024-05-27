@@ -11,4 +11,4 @@ The barbershop has several barbers that can each help one customer. Each cut tak
 ## Demo
 
 
-![Video Demo of Program Running](images/sleeping-barbers-demo.mp4)
+![Video Demo of Program Running](images/barbers-demo.gif)
